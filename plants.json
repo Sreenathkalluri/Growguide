@@ -1,0 +1,51 @@
+[
+    {
+        "Plant Name": "Flowers",
+        "Type of Plant": "Angiosperm",
+        "Description": "Flower is the main reproductive part of the plant It is made up of four whorls and out of them two outer whorls are calyx and corolla",
+        "Tips for plant care": "Clean your vase,Change the water regularly"
+    },
+    {
+        "Plant Name": "Moss",
+        "Type of Plant": "Bryophyte",
+        "Description": "Mosses are non-flowering plants which produce spores and have stems and leaves,but don't have true roots.",
+        "Tips for plant care": "Avoid placing them in direct sunlight,Use a spray bottle to gently mist the moss"
+    },
+    {
+        "Plant Name": "Grass",
+        "Type of Plant": "Monocot",
+        "Description": "Grasses are monocotyledon herbaceous plants.",
+        "Tips for plant care": "Rolling the lawn,Sweeping the lawn"
+    },
+    {
+        "Plant Name": "Herbs",
+        "Type of Plant": "Non woody",
+        "Description": "Herbs are small plants that have a fleshy or juicy stem when they are young.The stems develop hard,when they grow old.",
+        "Tips for plant care": "Place them in a sunny spot,Water them regularly"
+    },
+    {
+        "Plant Name": "Shrubs",
+        "Type of Plant": "Woody",
+        "Description": "Shrubs are any sort of woody thick plants that branch into a few stems or trunks at the base and is littler than a tree",
+        "Tips for plant care": "Choose a suitable location for sunlight,Water your shrub regularly"
+    },
+    {
+        "Plant Name": "Cacti",
+        "Type of Plant": "Succelent",
+        "Description": "Cacti are desert plants.They grow in dry places where other plants have trouble living.They are also protected by sharp spines",
+        "Tips for plant care": "Place them in a sunny spot,Water them sparingly"
+    },
+    {
+        "Plant Name": "Orchid",
+        "Type of Plant": "Flowering",
+        "Description": " The orchid is among one of the largest families of flowering plants.These type of flowers can grow in all terrestrial ecosystems.",
+        "Tips for plant care": "Place them with filtered sunlight,Water them regularly"
+    },
+   
+    {
+        "Plant Name": "Bamboo",
+        "Type of Plant": "Monocotyledonous",
+        "Description": "Bamboos are typically fast-growing perennials,with some species growing as much as 30 cm per day.",
+        "Tips for plant care": "Avoid exposing them to extreme temperature,Water them regularly"
+    }
+]
