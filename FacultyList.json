@@ -6,22 +6,10 @@
         "Tips for plant care": "Clean your vase,Change the water regularly"
     },
     {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
-    },
-    {
         "Plant Name": "Moss",
         "Type of Plant": "Bryophyte",
         "Description": "Mosses are non-flowering plants which produce spores and have stems and leaves,but don't have true roots.",
         "Tips for plant care": "Avoid placing them in direct sunlight,Use a spray bottle to gently mist the moss"
-    },
-    {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
     },
     {
         "Plant Name": "Grass",
@@ -30,22 +18,10 @@
         "Tips for plant care": "Rolling the lawn,Sweeping the lawn"
     },
     {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
-    },
-    {
         "Plant Name": "Herbs",
         "Type of Plant": "Non woody",
         "Description": "Herbs are small plants that have a fleshy or juicy stem when they are young.The stems develop hard,when they grow old.",
         "Tips for plant care": "Place them in a sunny spot,Water them regularly"
-    },
-    {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
     },
     {
         "Plant Name": "Shrubs",
@@ -54,22 +30,10 @@
         "Tips for plant care": "Choose a suitable location for sunlight,Water your shrub regularly"
     },
     {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
-    },
-    {
         "Plant Name": "Cacti",
         "Type of Plant": "Succelent",
         "Description": "Cacti are desert plants.They grow in dry places where other plants have trouble living.They are also protected by sharp spines",
         "Tips for plant care": "Place them in a sunny spot,Water them sparingly"
-    },
-    {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
     },
     {
         "Plant Name": "Orchid",
@@ -77,12 +41,7 @@
         "Description": " The orchid is among one of the largest families of flowering plants.These type of flowers can grow in all terrestrial ecosystems.",
         "Tips for plant care": "Place them with filtered sunlight,Water them regularly"
     },
-    {
-        "Plant Name": "",
-        "Type of Plant": "",
-        "Description": "",
-        "Tips for plant care": ""
-    },
+   
     {
         "Plant Name": "Bamboo",
         "Type of Plant": "Monocotyledonous",
